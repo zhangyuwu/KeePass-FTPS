@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{10938016-DEE2-4A25-9A5A-8FD3444379CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KeePass/Program.cs">
+    <Files>
+      <File FileName="KeePass/Program.cs" Line="179" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KeePass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
